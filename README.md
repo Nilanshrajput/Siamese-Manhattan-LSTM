@@ -10,4 +10,4 @@ Siamese networks seem to perform well on similarity tasks and have been used for
 In MaLSTM the identical sub-network is all the way from the embedding up to the last LSTM hidden state.
 This notebook is about implementing the MaLSTM model (http://www.mit.edu/~jonasm/info/MuellerThyagarajan_AAAI16.pdf) on Kaggle's Quora Question Pairs data.
 
-Code is inspired from Medium blog post and git repo from Elior Cohen
+Code is inspired from Medium blog post(https://medium.com/mlreview/implementing-malstm-on-kaggles-quora-question-pairs-competition-8b31b0b16a07) and git repo from Elior Cohen
