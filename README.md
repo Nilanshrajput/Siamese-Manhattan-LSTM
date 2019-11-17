@@ -8,3 +8,6 @@ Siamese networks are networks that have two or more identical sub-networks in th
 Siamese networks seem to perform well on similarity tasks and have been used for tasks like sentence semantic similarity, recognizing forged signatures and many more.
 
 In MaLSTM the identical sub-network is all the way from the embedding up to the last LSTM hidden state.
+This notebook is about implementing the MaLSTM model (http://www.mit.edu/~jonasm/info/MuellerThyagarajan_AAAI16.pdf) on Kaggle's Quora Question Pairs data.
+
+Code is inspired from Medium blog post and git repo from Elior Cohen
